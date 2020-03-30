@@ -1,0 +1,34 @@
+Added Component: Designator=U1(RM_8)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Christopher"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2016 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADA4661-2ARMZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Added Component: Designator=U2(RM_8)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Christopher"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2016 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADA4661-2ARMZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Out_HP Pin=U1-1
+Added Pin To Net: NetName=NetR7_1 Pin=U1-2
+Added Pin To Net: NetName=In_HP Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=Out_HP Pin=U1-5
+Added Pin To Net: NetName=NetR8_2 Pin=U1-6
+Added Pin To Net: NetName=Out_A Pin=U1-7
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Pin To Net: NetName=Out_E1 Pin=U2-1
+Added Pin To Net: NetName=Out_E1 Pin=U2-2
+Added Pin To Net: NetName=In_E1 Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=In_E2 Pin=U2-5
+Added Pin To Net: NetName=Out_E2 Pin=U2-6
+Added Pin To Net: NetName=Out_E2 Pin=U2-7
+Added Pin To Net: NetName=VCC Pin=U2-8
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component U1 Part Number: ADA4661-2ARMZ-R7
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component U2 Part Number: ADA4661-2ARMZ-R7
