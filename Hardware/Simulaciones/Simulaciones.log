@@ -1,0 +1,186 @@
+Circuit: * C:\Users\jose\Desktop\ISPR_Tutoriales\Simulaciones\Simulaciones.asc
+
+Instance "m:u3:4": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u3:3": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u3:2": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u3:1": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u4:4": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u4:3": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u4:2": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u4:1": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u2:4": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u2:3": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u2:2": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u2:1": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u1:4": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u1:3": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u1:2": Length shorter than recommended for a level 2 MOSFET.
+Instance "m:u1:1": Length shorter than recommended for a level 2 MOSFET.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 0.00100083
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+Gmin = 0.00100083
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 36.3755%
+Source Step = 36.4051%
+Source Step = 36.4347%
+Source Step = 36.4643%
+Source Step = 36.4938%
+vernier = 0.00146484
+Source Step = 36.5249%
+Source Step = 36.5693%
+Source Step = 36.6137%
+Source Step = 36.6581%
+Source Step = 36.7025%
+Source Step = 36.7469%
+vernier = 0.00219727
+Source Step = 36.8134%
+Source Step = 36.88%
+Source Step = 36.9466%
+Source Step = 37.0132%
+Source Step = 37.0798%
+vernier = 0.0032959
+Source Step = 37.1763%
+Source Step = 37.2762%
+Source Step = 37.3761%
+Source Step = 37.476%
+Source Step = 37.5758%
+vernier = 0.00494385
+Source Step = 37.7157%
+Source Step = 37.8655%
+Source Step = 38.0153%
+Source Step = 38.1651%
+Source Step = 38.3149%
+vernier = 0.00741577
+Source Step = 38.5172%
+Source Step = 38.7419%
+Source Step = 38.9666%
+Source Step = 39.1913%
+Source Step = 39.416%
+vernier = 0.0111237
+Source Step = 39.7082%
+Source Step = 40.0453%
+Source Step = 40.3823%
+Source Step = 40.7194%
+Source Step = 41.0565%
+vernier = 0.0166855
+Source Step = 41.4779%
+Source Step = 41.9835%
+Source Step = 42.4891%
+Source Step = 42.9947%
+Source Step = 43.5003%
+vernier = 0.0250282
+Source Step = 44.1071%
+Source Step = 44.8655%
+Source Step = 45.6239%
+Source Step = 46.3824%
+Source Step = 47.1408%
+vernier = 0.0375423
+Source Step = 48.013%
+Source Step = 49.1506%
+Source Step = 50.2883%
+Source Step = 51.4259%
+Source Step = 52.5636%
+vernier = 0.0563135
+Source Step = 53.815%
+Source Step = 55.5215%
+Source Step = 57.2279%
+Source Step = 58.9344%
+Source Step = 60.6409%
+vernier = 0.0844703
+Source Step = 62.4327%
+Source Step = 64.9924%
+Source Step = 67.5521%
+Source Step = 70.1118%
+Source Step = 72.6715%
+Source Step = 75.2312%
+vernier = 0.126705
+Source Step = 79.0708%
+Source Step = 82.9103%
+Source Step = 86.7499%
+Source Step = 90.5894%
+vernier = 0.0316764
+Source Step = 90.2535%
+Source Step = 90.3135%
+Source Step = 90.3735%
+Source Step = 90.4334%
+Source Step = 90.4934%
+vernier = 0.00296966
+Source Step = 90.5714%
+Source Step = 90.6614%
+Source Step = 90.7514%
+Source Step = 90.8414%
+Source Step = 90.9314%
+vernier = 0.00445449
+Source Step = 91.0439%
+Source Step = 91.1789%
+Source Step = 91.3138%
+Source Step = 91.4488%
+Source Step = 91.5838%
+vernier = 0.00668173
+Source Step = 91.7458%
+Source Step = 91.9483%
+Source Step = 92.1507%
+Source Step = 92.3532%
+Source Step = 92.5557%
+vernier = 0.0100226
+Source Step = 92.7886%
+Source Step = 93.0923%
+Source Step = 93.396%
+Source Step = 93.6997%
+Source Step = 94.0034%
+vernier = 0.0150339
+Source Step = 94.3375%
+Source Step = 94.7931%
+Source Step = 95.2486%
+Source Step = 95.7042%
+Source Step = 96.1598%
+vernier = 0.0225508
+Source Step = 96.6381%
+Source Step = 97.3215%
+Source Step = 98.0049%
+Source Step = 98.6882%
+Source Step = 99.3716%
+Source Step = 100%
+vernier = 0.0338263
+Source stepping succeeded in finding the operating point.
+
+
+Date: Tue Mar 31 19:45:43 2020
+Total elapsed time: 1.849 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 6325
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 195
+fillins = 226
+solver = Normal
+Matrix Compiler1:    1196 opcodes
+Matrix Compiler2: 21.57 KB object code size  6.4/7.8/[2.7]
+

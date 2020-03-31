@@ -1,0 +1,41 @@
+* C:\Users\jose\Desktop\ISPR_Tutoriales\Simulaciones\WorstCases.asc
+XU1 N006 E1 3.3 0 E1 ADA4661-2
+XU2 N008 E2 3.3 0 E2 ADA4661-2
+R1 N001 AMP {mc(6.2k,tolr)} tol=1
+R2 N006 N001 {mc(180k,tolr)} tol=1
+R3 N002 E1 {mc(27k,tolr)} tol=1
+R4 N008 N002 {mc(27k,tolr)} tol=1
+C1 E1 N001 {mc(1n,tolc)}
+C2 E2 N002 {mc(1n,tolc)}
+C3 0 N008 {mc(82p,tolc)}
+C4 0 N006 {mc(100p,tolc)}
+V1 N003 0 SINE(0.7 0.0003 440) AC 1
+V2 3.3 0 3.3
+C5 N004 N003 {mc(3u,tolc)}
+R5 N004 0 {wc(1.8k,tols,1)}
+XU4 N004 N005 3.3 0 HP ADA4661-2
+R6 3.3 N004 {wc(110k,tols,0)}
+R11 N005 HP {wc(62k,tols,2)}
+R12 N005 0 {wc(2k,tols,3)}
+XU3 HP N007 3.3 0 AMP ADA4661-2
+R9 N007 N009 {mc(pot_g_b,0)}
+R10 AMP N007 {mc(200k,tolr)}
+R7 N009 0 {mc(820,tolr)}
+R8 3.3 N009 {mc(pot_offset_b,0)}
+.tran 0 0.01 0 0.001
+* .noise V(E2) V1 dec 100 20 40k
+;ac dec 100 10 1000000
+;step param pot_g_b 3000 5000 200
+.param pot_g_b=4000
+.param pot_offset_b=734
+;step param pot_offset_b 390 490 20
+.func wc(nom,tol,index) if(run==numruns,nom,if(binary(run,index),nom*(1+tol),nom*(1-tol)))
+.func binary(run,index) floor(run/(2**index))-2*floor(run/(2**(index+1)))
+.param numruns=16
+.step param run 1 16 1
+.param tolc=0.01 tolr=0.01 tols=0.01
+;param tolc=0 tolr=0 tols=0
+.meas VoutAvg avg V(HP)
+.lib ADI1.lib
+.backanno
+.end

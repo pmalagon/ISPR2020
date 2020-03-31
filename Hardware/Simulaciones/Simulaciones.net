@@ -1,0 +1,39 @@
+* C:\Users\jose\Desktop\ISPR_Tutoriales\Simulaciones\Simulaciones.asc
+XU1 N007 N010 3.3 0 E1 ADA4661-2
+XU2 N009 N011 3.3 0 E2 ADA4661-2
+R1 N001 AMP {mc(1.6k,tolr)} tol=1
+R2 N007 N001 {mc(47k,tolr)} tol=1
+R3 N002 E1 {mc(5.1k,tolr)} tol=1
+R4 N009 N002 {mc(5.1k,tolr)} tol=1
+C1 E1 N001 {mc(3.6n,tolc)}
+C2 E2 N002 {mc(5.6n,tolc)}
+C3 0 N009 {mc(470p,tolc)}
+C4 0 N007 {mc(360p,tolc)}
+V1 N003 0 SINE(0.7 0.0003 440) AC 1
+V2 3.3 0 3.3
+C5 N004 N003 {mc(3u,tolc)}
+R5 N004 0 {mc(1.8k,tolr)}
+XU4 N004 N006 3.3 0 HP ADA4661-2
+R6 3.3 N004 {mc(110k,tolr)}
+R11 N006 HP {mc(62k,tolr)}
+R12 N006 0 {mc(2k,tolr)}
+XU3 N005 N008 3.3 0 AMP ADA4661-2
+R9 N008 N012 {mc(pot_g_b,0)}
+R10 AMP N008 {mc(200k,tolr)}
+R7 N012 0 {mc(820,tolr)}
+R8 3.3 N012 {mc(pot_offset_b,0)}
+R13 N005 HP {mc(5.6k,tolr)}
+R14 E1 N010 {mc(51k,tolr)}
+R15 E2 N011 {mc(10k,tolr)}
+;tran 0 0.01 0 0.001
+;step param run 1 20 1
+.param tolc=0 tolr=0
+.noise V(E2) V1 dec 100 20 40k
+;ac dec 100 10 1000000
+;step param pot_g_b 4000 5000 100
+.param pot_g_b=4000
+.param pot_offset_b=734
+;step param pot_offset_b 700 800 20
+.lib ADI1.lib
+.backanno
+.end

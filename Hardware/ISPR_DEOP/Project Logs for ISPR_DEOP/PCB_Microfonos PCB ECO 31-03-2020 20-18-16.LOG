@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=Out_HP Pin=U1-5
+Removed Pin From Net: NetName=Out_E1 Pin=U2-2
+Removed Pin From Net: NetName=Out_E2 Pin=U2-6
+Removed Pin From Net: NetName=VCC Pin=VR1-1
+Removed Pin From Net: NetName=In_HP Pin=VR1-2
+Removed Pin From Net: NetName=Out_HP Pin=VR2-1
+Removed Member From Class: ClassName=FILTRADO Y AMPLIFICACION Member=C12
+Removed Member From Class: ClassName=FILTRADO Y AMPLIFICACION Member=C13
+Removed Member From Class: ClassName=FILTRADO Y AMPLIFICACION Member=VR3
+Removed Member From Class: ClassName=FILTRADO Y AMPLIFICACION Member=VR4
+Change Component Comment : Designator=C3 Old Comment=1n New Comment=3.6n
+Change Component Comment : Designator=C4 Old Comment=1n New Comment=5.6n
+Change Component Comment : Designator=R1 Old Comment=6.2k New Comment=1.6k
+Change Component Comment : Designator=R3 Old Comment=27k New Comment=5.1k
+Change Component Comment : Designator=R4 Old Comment=27k New Comment=5.1k
+Change Component Comment : Designator=R8 Old Comment=80 New Comment=820
+Change Component Comment : Designator=C7 Old Comment=82p New Comment=470p
+Change Component Comment : Designator=C6 Old Comment=100p New Comment=360p
+Change Component Comment : Designator=R2 Old Comment=180k New Comment=47k
+Change Component Comment : Designator=VR3 Old Comment=3310Y-001-103L New Comment=3310Y-001-102L
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R9
+Change Component Designator: OldDesignator=R7 NewDesignator=R10
+Change Component Designator: OldDesignator=R8 NewDesignator=R13
+Change Component Designator: OldDesignator=VR3 NewDesignator=VR1
+Change Component Designator: OldDesignator=VR4 NewDesignator=VR2
+Added Component: Designator=R1(0805R-GENERIC)
+Added Component: Designator=R7(0805R-GENERIC)
+Added Component: Designator=R8(0805R-GENERIC)
+Added Component: Designator=R11(0805R-GENERIC)
+Added Component: Designator=R12(0805R-GENERIC)
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=VCC Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=In_HP Pin=R1-2
+Added Pin To Net: NetName=Out_HP Pin=R7-1
+Added Pin To Net: NetName=Out_E1 Pin=R8-1
+Added Pin To Net: NetName=Out_E2 Pin=R11-1
+Added Pin To Net: NetName=Out_HP Pin=R12-2
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR13_1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=R10-1
+Added Pin To Net: NetName=NetR7_2 Pin=U1-2
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U2-2
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=U2-6
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=U1-5
+Added Net: Name=NetR12_1
+Added Member To Class: ClassName=MICROFONO Member=Component C2 100pF
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component C6 360p
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component C7 470p
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component C8 100n
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component C9 100p
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component C10 100n
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component C11 100p
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component R4 5.1k
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component R6 1.8k
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component R8 51k
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component R9 20k
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component R10 2k
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component R11 10k
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component R12 5.6k
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component R13 820
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component TP3 AMP
