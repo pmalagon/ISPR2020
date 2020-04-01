@@ -1,0 +1,232 @@
+Added Component: Designator=C1(0805C-TBD)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-1673-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C2(0805C-GENERIC)
+Added Component: Designator=C3(0805C-GENERIC)
+Added Component: Designator=C4(0805C-GENERIC)
+Added Component: Designator=C5(0805C-GENERIC)
+Added Component: Designator=C6(0805C-GENERIC)
+Added Component: Designator=C7(0805C-GENERIC)
+Added Component: Designator=C8(0805C-GENERIC)
+Added Component: Designator=C9(0805C-GENERIC)
+Added Component: Designator=C10(0805C-GENERIC)
+Added Component: Designator=C11(0805C-GENERIC)
+Added Component: Designator=C12(CAPAE660X800N)
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/panasonic-eee-hc1c101xp/70258549/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = "70258549"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+ABA0109+EEEHC1C101XP+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEE-HC1C101XP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "667-EEE-HC1C101XP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-EEE-HC1C101XP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C13(0805C-GENERIC)
+Added Component: Designator=J1(CUI_SJ2-35953A-SMT-TR)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cuidevices.com/product/interconnect/connectors/audio-connectors/jacks/sj2-3595x-smt-series?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SJ2-35953A-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SJ2-35953A-SMT-TR/CUI%20Devices/view-part/701771/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MK1(XDCR_INMP510)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "1428-1016-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/tdk-invensense/INMP510ACEZ-R7/1428-1016-2-ND/4311534?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "INMP510"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LGA-3 TDK-InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/INMP510/TDK%20InvenSense/view-part/2757133/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(0805R-GENERIC)
+Added Component: Designator=R2(0805R-GENERIC)
+Added Component: Designator=R3(0805R-GENERIC)
+Added Component: Designator=R4(0805R-GENERIC)
+Added Component: Designator=R5(0805R-GENERIC)
+Added Component: Designator=R6(0805R-GENERIC)
+Added Component: Designator=R7(0805R-GENERIC)
+Added Component: Designator=R8(0805R-GENERIC)
+Added Component: Designator=R9(0805R-GENERIC)
+Added Component: Designator=R10(0805R-GENERIC)
+Added Component: Designator=R11(0805R-GENERIC)
+Added Component: Designator=R12(0805R-GENERIC)
+Added Component: Designator=R13(0805R-GENERIC)
+Added Component: Designator=TP1(TESTPIN)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Sharon Long Industries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "Cut-it-yourself"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Sharon Long Industries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part number"; Value = "Cut-It-Yourself"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TESTPIN)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Sharon Long Industries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "Cut-it-yourself"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Sharon Long Industries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part number"; Value = "Cut-It-Yourself"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(TESTPIN)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Sharon Long Industries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "Cut-it-yourself"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Sharon Long Industries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part number"; Value = "Cut-It-Yourself"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(TESTPIN)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Sharon Long Industries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "Cut-it-yourself"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Sharon Long Industries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part number"; Value = "Cut-It-Yourself"; VariantName = "[No Variations]"
+Added Component: Designator=U1(RM_8)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Christopher"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2016 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADA4661-2ARMZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Added Component: Designator=U2(RM_8)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Christopher"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2016 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADA4661-2ARMZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Analog Devices Inc"; VariantName = "[No Variations]"
+Added Component: Designator=VR1(3310Y-001)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.bourns.com/docs/Product-Datasheets/3310.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3310Y-001-103L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-3310Y-001-103L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=652-3310Y-001-103L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "5220625P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/5220625P"; VariantName = "[No Variations]"
+Added Component: Designator=VR2(3310Y-001)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.bourns.com/docs/Product-Datasheets/3310.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3310Y-001-103L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-3310Y-001-103L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=652-3310Y-001-103L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "5220625P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/5220625P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=Out_E1 Pin=C3-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=Out_E2 Pin=C4-2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=In_HP Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=In_E1 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=In_E2 Pin=C7-2
+Added Pin To Net: NetName=VCC Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=VCC Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=VCC Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=VCC Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=VCC Pin=C12-1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=VCC Pin=C13-1
+Added Pin To Net: NetName=NetC12_2 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=Out_E2 Pin=J1-2
+Added Pin To Net: NetName=VCC Pin=J1-3
+Added Pin To Net: NetName=VCC Pin=MK1-1
+Added Pin To Net: NetName=NetC5_1 Pin=MK1-2
+Added Pin To Net: NetName=GND Pin=MK1-3
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=In_HP Pin=R1-2
+Added Pin To Net: NetName=Out_A Pin=R2-1
+Added Pin To Net: NetName=NetC3_1 Pin=R2-2
+Added Pin To Net: NetName=NetC3_1 Pin=R3-1
+Added Pin To Net: NetName=In_E1 Pin=R3-2
+Added Pin To Net: NetName=Out_E1 Pin=R4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R4-2
+Added Pin To Net: NetName=NetC4_1 Pin=R5-1
+Added Pin To Net: NetName=In_E2 Pin=R5-2
+Added Pin To Net: NetName=In_HP Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=Out_HP Pin=R7-1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=Out_E1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=Out_A Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR7_2 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=Out_E2 Pin=R11-1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=Out_HP Pin=R12-2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=Out_E1 Pin=TP1-1
+Added Pin To Net: NetName=Out_E2 Pin=TP2-1
+Added Pin To Net: NetName=Out_A Pin=TP3-1
+Added Pin To Net: NetName=Out_HP Pin=TP4-1
+Added Pin To Net: NetName=Out_HP Pin=U1-1
+Added Pin To Net: NetName=NetR7_2 Pin=U1-2
+Added Pin To Net: NetName=In_HP Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=NetR12_1 Pin=U1-5
+Added Pin To Net: NetName=NetR9_2 Pin=U1-6
+Added Pin To Net: NetName=Out_A Pin=U1-7
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Pin To Net: NetName=Out_E1 Pin=U2-1
+Added Pin To Net: NetName=NetR8_2 Pin=U2-2
+Added Pin To Net: NetName=In_E1 Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=In_E2 Pin=U2-5
+Added Pin To Net: NetName=NetR11_2 Pin=U2-6
+Added Pin To Net: NetName=Out_E2 Pin=U2-7
+Added Pin To Net: NetName=VCC Pin=U2-8
+Added Pin To Net: NetName=VCC Pin=VR1-1
+Added Pin To Net: NetName=NetR13_1 Pin=VR1-2
+Added Pin To Net: NetName=NetR13_1 Pin=VR2-1
+Added Pin To Net: NetName=NetR9_2 Pin=VR2-2
+Added Member To Class: ClassName=MICROFONO Member=Component C1 100nF
+Added Member To Class: ClassName=MICROFONO Member=Component C2 C0805-GENERIC
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component C3 3.6n
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component C4 5.6n
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component C5 3u
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component C6 360p
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component C7 470p
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component C8 100n
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component C9 100p
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component C10 100n
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component C11 100p
+Added Member To Class: ClassName=CONECTOR Member=Component C12 EEE-HC1C101XP
+Added Member To Class: ClassName=CONECTOR Member=Component C13 10u
+Added Member To Class: ClassName=CONECTOR Member=Component J1 SJ2-35953A-SMT-TR
+Added Member To Class: ClassName=MICROFONO Member=Component MK1 INMP510
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component R1 110k
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component R2 1.6k
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component R3 47k
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component R4 5.1k
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component R5 5.1k
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component R6 1.8k
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component R7 62k
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component R8 51k
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component R9 20k
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component R10 2k
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component R11 10k
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component R12 5.6k
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component R13 820
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component TP1 LPFE1
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component TP2 LPFE2
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component TP3 AMP
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component TP4 HPF
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component U1 Part Number: ADA4661-2ARMZ-R7
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component U2 Part Number: ADA4661-2ARMZ-R7
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component VR1 3310Y-001-102L
+Added Member To Class: ClassName=FILTRADO Y AMPLIFICACION Member=Component VR2 3310Y-001-103L
+Added Room: Name=CONECTOR
+Added Room: Name=FILTRADO Y AMPLIFICACION
+Added Room: Name=MICROFONO
